@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: CucumberTests.CT_ValidLogin
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.528 sec - in CucumberTests.CT_ValidLogin
